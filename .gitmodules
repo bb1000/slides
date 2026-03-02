@@ -1,3 +1,6 @@
 [submodule "loops/refreeze"]
 	path = loops/refreeze
 	url = https://github.com/vahtras/refreeze.git
+[submodule "foo/refreeze"]
+	path = foo/refreeze
+	url = https://github.com/vahtras/refreeze.git
