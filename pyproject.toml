@@ -10,8 +10,5 @@ dependencies = [
 
 [tool.uv.workspace]
 members = [
-    "loops",
-    "foo",
-    "foobar",
-    "installation",
+    "introduction",
 ]

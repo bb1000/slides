@@ -4,3 +4,6 @@
 [submodule "foo/refreeze"]
 	path = foo/refreeze
 	url = https://github.com/vahtras/refreeze.git
+[submodule "introduction"]
+	path = introduction
+	url = git@github.com:bb1000/introduction
