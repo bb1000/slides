@@ -15,6 +15,7 @@ project:
     - file: README.md
     - file: introduction/talk.md
     - file: files/talk.md
+    - file: libraries/talk.md
     
 site:
   template: book-theme

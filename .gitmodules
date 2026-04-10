@@ -10,3 +10,6 @@
 [submodule "files"]
 	path = files
 	url = https://github.com/bb1000/files.git
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/bb1000/libraries
