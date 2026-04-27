@@ -13,3 +13,6 @@
 [submodule "libraries"]
 	path = libraries
 	url = https://github.com/bb1000/libraries
+[submodule "classes"]
+	path = classes
+	url = https://github.com/bb1000/classes
