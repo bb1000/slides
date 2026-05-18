@@ -19,3 +19,6 @@
 [submodule "testing"]
 	path = testing
 	url = https://github.com/bb1000/testing
+[submodule "git"]
+	path = git
+	url = git@github.com:bb1000/git

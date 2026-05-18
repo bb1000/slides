@@ -18,6 +18,7 @@ project:
     - file: libraries/talk.md
     - file: classes/talk.md
     - file: testing/talk.md
+    - file: git/talk.md
     
 site:
   template: book-theme
