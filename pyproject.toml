@@ -13,4 +13,5 @@ members = [
     "introduction",
     "visualization",
     "testing",
+    "git",
 ]
