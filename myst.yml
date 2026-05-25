@@ -19,6 +19,7 @@ project:
     - file: classes/talk.md
     - file: testing/talk.md
     - file: git/talk.md
+    - file: advanced/talk.md
     
 site:
   template: book-theme

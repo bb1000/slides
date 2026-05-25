@@ -22,3 +22,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:bb1000/git
+[submodule "advanced"]
+	path = advanced
+	url = https://github.com/bb1000/advanced
